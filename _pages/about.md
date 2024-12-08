@@ -1,12 +1,3 @@
-# ---
-# permalink: /
-# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-# author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
-# ---
-
 I am currently a Postdoctoral Associate at Duke University, where I began my postdoctoral work with Professor Li Ma in the Department of Statistical Science and am now collaborating with Professor Susan Halabi in the Department of Biostatistics and Bioinformatics. Prior to this, I earned my Ph.D. in Statistical Science from the University of California, Santa Cruz, advised by Professor Athanasios Kottas.
 
 A data-driven personal website
