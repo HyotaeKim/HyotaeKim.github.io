@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "University 1, Department"
-date: 2015/2016
 location: "City, Country"
 ---
 
