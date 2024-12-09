@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: 
 venue: "University 1, Department"
 location: "City, Country"
+date: 2024-05-29
 university: "UCSC"
 ---
 
