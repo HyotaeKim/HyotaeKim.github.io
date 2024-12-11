@@ -1,5 +1,5 @@
 ---
-title: "Statistics"
+title: "Statistics (AMS/STAT 5)"
 collection: teaching
 role: "Teaching Assistant"
 type: "Undergraduate Course"
