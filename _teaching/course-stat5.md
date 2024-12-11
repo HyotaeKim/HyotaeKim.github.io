@@ -9,4 +9,5 @@ venue: "University of California, Santa Cruz, Department of Statistics"
 <!-- location: "City, Country" -->
 ---
 
-Quarter(s): Winter, Spring 2017
+<!-- Quarter(s): Winter, Spring 2017 -->
+
