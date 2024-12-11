@@ -2,7 +2,7 @@
 title: "Statistics"
 collection: teaching
 role: "Teaching Assistant"
-type: "Undergraduate"
+type: "Undergraduate Course"
 permalink: 
 venue: "University of California, Santa Cruz, Department of Statistics"
 date: 2015-01-01
