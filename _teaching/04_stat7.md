@@ -1,5 +1,5 @@
 ---
-title: "Statistical Methods for the Biological, Environmental, and Health Sciences (UCSC AMS/STAT 7)"
+title: "Statistical Methods for the Biological, Environmental, and Health Sciences (UCSC STAT 7)"
 collection: teaching
 role: "Teaching Assistant"
 type: "Undergraduate Course"
