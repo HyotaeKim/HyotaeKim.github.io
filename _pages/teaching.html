@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 <div><h2> Publications </h2></div>
-<hr style="border-color:black;">
+<hr style="border-color:gray;">
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.role == 'Graduate Student Instructor' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
