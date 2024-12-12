@@ -14,7 +14,7 @@ author_profile: true
 <div><h2> Work in progress </h2></div>
 <hr style="border-color:lightgrey;">
 {% for post in site.research reversed %}
-  {% if post.category == 'manuscripts' %}
+  {% if post.category == manuscripts %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
