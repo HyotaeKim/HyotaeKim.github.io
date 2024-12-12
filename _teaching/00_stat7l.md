@@ -1,5 +1,5 @@
 ---
-title: "Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory (AMS/STAT 7L)"
+title: "Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory (UCSC STAT 7L)"
 collection: teaching
 role: "Graduate Student Instructor"
 type: "Undergraduate Course"
