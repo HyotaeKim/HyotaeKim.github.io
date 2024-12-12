@@ -1,13 +1,13 @@
 ---
-title: "Statistics (AMS/STAT 5)"
+title: "Generalized Linear Models (AMS 274/STAT 209)"
 collection: teaching
 role: "Teaching Assistant"
-type: "Undergraduate Course"
+type: "Graduate Course"
 permalink: 
 venue: "University of California, Santa Cruz"
 ---
 
-Quarter(s): Winter, Spring 2017
+Quarter(s): Fall 2020
 
-[Course Description](https://catalog.ucsc.edu/en/current/general-catalog/courses/stat-statistics/lower-division/stat-5/)
+[Course Description](https://catalog.ucsc.edu/en/2022-2023/general-catalog/courses/stat-statistics/graduate/stat-209/)
 
