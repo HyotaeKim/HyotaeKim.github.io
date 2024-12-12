@@ -1,13 +1,13 @@
 ---
-title: "Statistics (AMS/STAT 5)"
+title: "Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory (AMS/STAT 7L)"
 collection: teaching
-role: "Teaching Assistant"
+role: "Graduate Student Instructor"
 type: "Undergraduate Course"
 permalink: 
 venue: "University of California, Santa Cruz"
 ---
 
-Quarter(s): Winter, Spring 2017
+Quarter(s): Summer 2019
 
-[Course Description](https://catalog.ucsc.edu/en/current/general-catalog/courses/stat-statistics/lower-division/stat-5/)
+[Course Description](https://catalog.ucsc.edu/en/2022-2023/general-catalog/courses/stat-statistics/lower-division/stat-7l/)
 
