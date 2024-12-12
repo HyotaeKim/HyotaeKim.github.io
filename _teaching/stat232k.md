@@ -1,13 +1,12 @@
 ---
-title: "Statistics (AMS/STAT 5)"
+title: "Mathematical Statistics (STAT 232)"
 collection: teaching
 role: "Teaching Assistant"
 type: "Undergraduate Course"
 permalink: 
-venue: "University of California, Santa Cruz"
+venue: "Korea University"
 ---
 
-Quarter(s): Winter, Spring 2017
+Quarter(s): Fall 2014
 
-[Course Description](https://catalog.ucsc.edu/en/current/general-catalog/courses/stat-statistics/lower-division/stat-5/)
 
