@@ -19,6 +19,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<div><h2> Journal papers </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.publications reversed %}
+  {% if post.status == 'JP' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <!-- New style rendering if publication categories are defined --> 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
