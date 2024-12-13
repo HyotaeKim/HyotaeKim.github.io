@@ -22,7 +22,7 @@ author_profile: true
 <div><h2> Journal papers </h2></div>
 <hr style="border-color:lightgrey;">
 {% for post in site.publications reversed %}
-  {% if post.status == 'WIP' %}
+  {% if post.status == WIP %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
