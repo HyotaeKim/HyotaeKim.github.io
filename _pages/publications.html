@@ -11,24 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 
-<div><h2> Work in progress </h2></div>
-<hr style="border-color:lightgrey;">
-{% for post in site.publications reversed %}
-  {% if post.category == manuscripts %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<div><h2> Journal papers </h2></div>
-<hr style="border-color:lightgrey;">
-{% for post in site.publications reversed %}
-  {% if post.status == WIP %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
--->
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
