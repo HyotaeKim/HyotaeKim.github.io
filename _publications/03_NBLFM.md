@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Nonparametric mixture modeling for Hawkes processes"
+title: "A negative binomial latent factor model for paired microbiome sequencing data"
 collection: publications
 category: manuscripts
 permalink: /publication/03_NBLFM
