@@ -5,7 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
-include archive-single-talk.html
+<div><h2> Nonparametric Bayesian Model of Marked Hawkes Processes </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+  <!--
+  {% if post.status == 'WIP' %}
+    {% include archive-single.html %}
+  {% endif %}
+  -->
+{% endfor %}
 
 <!--
 {% if site.talkmap_link == true %}
