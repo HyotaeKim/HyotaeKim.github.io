@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/02_MHP
 excerpt: ''
-date: 2009-10-01
 venue: ''
 paperurl: 'http://academicpages.github.io/files/HP.pdf'
 citation: ''
