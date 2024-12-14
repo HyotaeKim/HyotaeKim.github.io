@@ -12,7 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 
-<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+<div class="{{ include.type | default: "list" }}__item">
+  {{ title }}
+</div>  
+<!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
 
 <!--
 <div class="{{ include.type | default: "list" }}__item">
