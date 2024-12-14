@@ -55,7 +55,7 @@ layout: default
           {% if page.status == 'WIP' %}
             <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
           {% elsif page.status == 'JP' %}
-            <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
+            <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
           {% endif %}
         {% elsif page.citation and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
