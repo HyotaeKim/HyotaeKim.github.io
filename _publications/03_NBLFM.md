@@ -2,7 +2,7 @@
 title: "Bayesian Nonparametric mixture modeling for Hawkes processes"
 collection: publications
 category: manuscripts
-permalink: /publication/01_HP
+permalink: /publication/03_NBLFM
 excerpt: ''
 venue: ''
 paperurl: 'http://academicpages.github.io/files/NBLFM.pdf'
