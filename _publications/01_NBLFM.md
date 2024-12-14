@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/01_NBLFM
 excerpt: ''
 venue: ''
-paperurl: 'http://academicpages.github.io/files/NBLFM.pdf'
+paperurl: 'https://drive.google.com/file/d/101ArvpfaExiu_GkzwIYyHHXyfCSILtof/view?usp=share_link'
 citation: ''
 status: 'WIP'
 ---
