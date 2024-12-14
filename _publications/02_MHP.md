@@ -1,13 +1,13 @@
 ---
-title: "Bayesian Nonparametric mixture modeling for Hawkes processes"
+title: "Bayesian nonparametric marked Hawkes processes for earthquake modeling"
 collection: publications
 category: manuscripts
 permalink: /publication/02_MHP
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
+venue: ''
 paperurl: 'http://academicpages.github.io/files/HP.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 status: 'WIP'
 ---
 
