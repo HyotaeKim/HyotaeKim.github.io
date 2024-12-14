@@ -11,7 +11,7 @@ I am currently a Postdoctoral Associate at Duke University, where I began my pos
 
 My primary research interests lie in (Bayesian nonparametric) statistical modeling of complex data, including temporal / spatial / spatio-temporal stochastic process data, microbiome sequencing data, and clinical trial data. The core objective of my research is to develop flexible, scalable, and interpretable statistical models and machine learning algorithms to better estimate point patterns, enhance predictive power, and uncover novel insights from data.
 
-My current research focuses on microbiome data analysis, where I develop models to uncover cross-site microbial correlations, and integrative analyses of clinical trial and real-world data through Bayesian clustering and meta-analysis models.
+My current research focuses on microbiome data analysis, where I develop models to uncover cross-site microbial correlations, and integrative analyses of clinical trial and real-world data through Bayesian clustering and meta-analysis approaches.
 
 <!--
 A data-driven personal website
