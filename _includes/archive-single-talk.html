@@ -13,8 +13,10 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  {{ title }}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {{ title }}
+  </article>
 </div>  
-<!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
+
 
 
