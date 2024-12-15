@@ -14,6 +14,39 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<div><h2> Latent variable models for multiple surfaces / sites microbiome data </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.talks reversed %}
+  {% if post.status == "LVM" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<div><h2> Exploring Statistical and Machine Learning Methods and Available Databases for Built
+Environment Microbiome </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.talks reversed %}
+  {% if post.status == "Microbiome" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<div><h2> Nonparametric Bayesian Modeling and Inference for Hawkes Processes </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.talks reversed %}
+  {% if post.status == "HP" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<div><h2> Accuracy and Efficacy Test of ARS-based Random Number Generators </h2></div>
+<hr style="border-color:lightgrey;">
+{% for post in site.talks reversed %}
+  {% if post.status == "ARS" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
 <!--
 {% if site.talkmap_link == true %}
 
