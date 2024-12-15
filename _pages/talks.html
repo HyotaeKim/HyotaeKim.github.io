@@ -8,12 +8,10 @@ author_profile: true
 <div><h2> Nonparametric Bayesian Model of Marked Hawkes Processes </h2></div>
 <hr style="border-color:lightgrey;">
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-  <!--
-  {% if post.status == 'WIP' %}
-    {% include archive-single.html %}
+  <!-- {% include archive-single-talk.html %} -->
+  {% if post.status == "MHP" %}
+    {% include archive-single-talk.html %}
   {% endif %}
-  -->
 {% endfor %}
 
 <!--
