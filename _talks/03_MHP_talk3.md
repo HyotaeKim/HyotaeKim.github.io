@@ -1,10 +1,10 @@
 ---
-title: "EAC-ISBA Conference 2024"
+title: "7th International Conference on Econometrics and Statistics"
 collection: talks
-type: "Contributed Talk"
+type: "Invited Talk"
 permalink: 
-venue: "The Education University of Hong Kong"
-date: 2024-06-26
-location: "Hong Kong"
+venue: "Beijing Normal University"
+date: 2024-07-17
+location: "Beijing, China"
 status: "MHP"
 ---
