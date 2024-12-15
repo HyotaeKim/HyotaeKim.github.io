@@ -1,10 +1,10 @@
 ---
-title: "EAC-ISBA Conference 2024"
+title: "2024 Joint Statistical Meetings"
 collection: talks
 type: "Contributed Talk"
 permalink: 
-venue: "The Education University of Hong Kong"
-date: 2024-06-26
-location: "Hong Kong"
+venue: "Oregon Convention Center"
+date: 2024-08-08
+location: "Portland, Oregon"
 status: "MHP"
 ---
