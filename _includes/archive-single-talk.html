@@ -14,9 +14,9 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <b>{{ title }}</b>
+    <b>{{ post.venue }}</b>
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}},  {{post.location}} {% endif %}
   </article>
 </div>  
 
