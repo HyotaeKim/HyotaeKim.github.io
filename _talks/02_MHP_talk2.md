@@ -1,10 +1,10 @@
 ---
-title: "EAC-ISBA Conference 2024"
+title: "2024 ISBA World Meeting"
 collection: talks
-type: "Contributed Talk"
+type: "Poster"
 permalink: 
-venue: "The Education University of Hong Kong"
-date: 2024-06-26
-location: "Hong Kong"
+venue: "Department of Economics - Ca’ Foscari University of Venice"
+date: 2024-07-04
+location: "Venice, Italy"
 status: "MHP"
 ---
