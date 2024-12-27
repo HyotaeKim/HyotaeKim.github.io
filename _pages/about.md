@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Associate at Duke University, where I began my postdoctoral work with Professor Li Ma in the Department of Statistical Science and am now collaborating with Professor Susan Halabi in the Department of Biostatistics and Bioinformatics. Prior to this, I earned my Ph.D. in Statistical Science from the University of California, Santa Cruz, advised by Professor Athanasios Kottas.
+I am currently a Postdoctoral Associate at Duke University, where I began my postdoctoral work with Professor Li Ma in the Department of Statistical Science and am now collaborating with James B. Duke Distinguished Professor Susan Halabi in the Department of Biostatistics and Bioinformatics. Prior to this, I earned my Ph.D. in Statistical Science from the University of California, Santa Cruz, advised by Professor Athanasios Kottas.
 
 My primary research interests lie in (Bayesian nonparametric) statistical modeling of complex data, including temporal / spatial / spatio-temporal stochastic process data, microbiome sequencing data, and clinical trial data. The core objective of my research is to develop flexible, scalable, and interpretable statistical models and machine learning algorithms to better estimate point patterns, enhance predictive power, and uncover novel insights from data.
 
